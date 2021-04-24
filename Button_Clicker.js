@@ -29,7 +29,10 @@ function hideMe3() {
 
     x.style.display = "none";
     y.style.display = "block";
-    z.style.backgroundColor = "purple";
+    z.style.backgroundImage = "url('assets/image0.png')";
+    z.style.backgroundSize = "1280px";
+    z.style.backgroundRepeat = "no-repeat";
+    y.style.color = "white";
     audio.play();
     
 }
