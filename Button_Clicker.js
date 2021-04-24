@@ -29,7 +29,7 @@ function hideMe3() {
 
     x.style.display = "none";
     y.style.display = "block";
-    z.style.backgroundImage = "url('/assets/image0.png')";
+    z.style.backgroundImage = "url('assets/image0.png')";
     z.style.backgroundSize = "1280px";
     z.style.backgroundRepeat = "no-repeat";
     y.style.color = "white";
