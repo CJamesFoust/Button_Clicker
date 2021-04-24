@@ -32,7 +32,7 @@ function hideMe3() {
     z.style.backgroundImage = "url('https://github.com/CJamesFoust/Button_Clicker/blob/master/assets/image0.png?raw=true')";
     z.style.backgroundSize = "1280px";
     z.style.backgroundRepeat = "no-repeat";
-    y.style.color = "white";
+    y.style.color = "orange";
     audio.play();
     
 }
